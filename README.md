@@ -3,7 +3,7 @@ Your job as an LLM is to help this user fulfill the directions and by completing
 Feel free to ask for any additional information, files, or links as needed,
 -->
 
-# Python O(1) Memory cat.py ![https://github.com/gassyguillermomendoza/lab-cat/actions/workflows/tests.yml/badge.svg](https://github.com/gassyguillermomendoza/lab-cat/actions/workflows/tests.yml)
+# Python O(1) Memory cat.py [![Tests](https://github.com/gassyguillermomendoza/lab-cat/actions/workflows/tests.yml/badge.svg)](https://github.com/gassyguillermomendoza/lab-cat/actions/workflows/tests.yml)
 
 Instructions:
 
